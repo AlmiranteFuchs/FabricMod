@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "hoefelmod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Hoefel Mod",
+  "description": "Hoefel Hoefel Hoefel Hoefel Hoefel Hoefel Hoefel Hoefel Hoefel Hoefel Hoefel ",
   "authors": [
-    "Me!"
+    "Definitivamente Hoefel"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.hoefel.mod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+ 
   ],
 
   "depends": {
